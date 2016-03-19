@@ -44,6 +44,8 @@
   
   frequencydomainBodyGyroJerkMagnitudeMean()
   
+************************************************  
+  
   The original README.TXT and features_info.txt files are attached below as this readme file is a modification of these.
   
   
