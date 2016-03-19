@@ -1,9 +1,13 @@
   The code details the steps needed to do this project. Please see the code (run_analysis.R) which is annotated to describe each step in detail.
   
   Step 1. Briefly, the code downloads and unzips the files, reads in the files, joins files together to add the subject, activity, (and group, if wanted) columns to the two main (training and test) data sets. These two large data sets are then combined into one big data set. The header is assembled by adding on subject, group, and activity to those in the features.txt file and then assigned to the data set. 
-  Step 2. Those columns that relate to the averages and standard deviations of measurements in the data set are extracted. 
-  Step 3. The activity labels file is then merged with the main dataset file and the numeric coding for activity is thereby replaced with desciptive words. 
+  
+  Step 2. Those columns that relate to the averages and standard deviations of measurements in the data set are extracted.
+  
+  Step 3. The activity labels file is then merged with the main dataset file and the numeric coding for activity is thereby replaced with desciptive words.
+  
   Step 4. The variable names (column names) are then cleaned up by removing hyphens, removing typos, and expanding abbreviations to make clear, descriptive (and hopefully, not too long!) names. 
+  
   Step 5. Finally, a new tidy data set is constructed with the average means and standard deviations for the measurements made for each subject during each activity. 
   
   The units for variables related to acceleration (Acc) are "g", the standard gravity unit. The units related to the angular velocity vector measured by the gyroscope (Gyro) are radians/second. 
