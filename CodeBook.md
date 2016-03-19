@@ -6,19 +6,36 @@
   
   The average mean and standard deviations for each subject performing each of the six activities are of the following variables: 
   timedomainBodyAccMean()X, Y, and Z axes           (3 separate variables)
+  
   timedomainGravityAccMean()X, Y, and Z axes        (3 separate variables)
+  
   timedomainBodyAccJerkMean()X, Y, and Z axes       (3 separate variables)
+  
   timedomainBodyGyroMean()X, Y, and Z axes          (3 separate variables)
+  
   timedomainBodyGyroJerkMean()X, Y, and Z axes      (3 separate variables)
+  
   timedomainBodyAccMagnitudeMean()
+  
   timedomainGravityAccMagnitudeMean()
+  
   timedomainBodyAccJerkMagnitudeMean()
+  
   timedomainBodyGyroMagnitudeMean()
+  
   timedomainBodyGyroJerkMagnitudeMean()
+  
   frequencydomainBodyAccMean()X, Y, and Z axes        (3 separate variables)
+  
   frequencydomainBodyAccJerkMean()X, Y, and Z axes    (3 separate variables)
+  
   frequencydomainBodyGyroMean()X, Y, and Z axes       (3 separate variables)
+  
   frequencydomainBodyAccMagnitudeMean()
+  
   frequencydomainBodyAccJerkMagnitudeMean()
+  
   frequencydomainBodyGyroMagnitudeMean()
+  
   frequencydomainBodyGyroJerkMagnitudeMean()
+  
